@@ -1,0 +1,16 @@
+{
+  "name": "TaxClarity - Indian Income Tax Calculator",
+  "short_name": "TaxClarity",
+  "description": "Browser-only Indian Income Tax Calculator for FY 2026-27 (AY 2027-28)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
